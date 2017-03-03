@@ -1,0 +1,6 @@
+G:\tutorial_books\object oriented\tamrin1\new_working_to_class\new_working_to_class\bin\Debug\new_working_to_class.exe.config
+G:\tutorial_books\object oriented\tamrin1\new_working_to_class\new_working_to_class\bin\Debug\new_working_to_class.exe
+G:\tutorial_books\object oriented\tamrin1\new_working_to_class\new_working_to_class\bin\Debug\new_working_to_class.pdb
+G:\tutorial_books\object oriented\tamrin1\new_working_to_class\new_working_to_class\obj\Debug\new_working_to_class.csprojResolveAssemblyReference.cache
+G:\tutorial_books\object oriented\tamrin1\new_working_to_class\new_working_to_class\obj\Debug\new_working_to_class.exe
+G:\tutorial_books\object oriented\tamrin1\new_working_to_class\new_working_to_class\obj\Debug\new_working_to_class.pdb
